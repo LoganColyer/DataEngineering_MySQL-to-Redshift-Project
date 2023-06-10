@@ -2,6 +2,12 @@
 
 This project was inspired by an upcoming need to move On-Premises data into a Cloud tool for the company I work for
 
+Here's the tech stack you need for this project:
+* [MySQL Workbench](https://dev.mysql.com/downloads/workbench/)
+* [Python](https://www.python.org/downloads/)
+* [AWS Account](https://docs.aws.amazon.com/accounts/latest/reference/manage-acct-creating.html)
+
+
 Here's the project architecture:
 ![RedshiftProject_Architecture](https://github.com/LoganColyer/DataEngineering_MySQL-to-Redshift-Project/assets/72894342/09c88b88-ec39-41d9-a913-23a30b3fc30e)
 
