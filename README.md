@@ -23,10 +23,9 @@ The Python script does the following*
 * Connects to an s3 Bucket 
 * Upload CSV file to s3 Bucket
 
----
 
 ## Phase Two (Upcoming)
 * Add automation element via Apache Airflow
 * Leverage Stock Market API's instead of manually downloading CSV files
- 
-This was a good first step to learning how to transfer data from one relational database to another. Particularly moving data from On-Prem to the Cloud.
+* Add monthly ISM Manufacturing PMI data
+* Develop Dashboard for Data Vizsualization
