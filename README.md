@@ -26,7 +26,7 @@ The Python script does the following*
 
 
 ## Phase Two (Upcoming)
-* Add automation element via Apache Airflow
 * Leverage Stock Market API's instead of manually downloading CSV files
 * Add monthly ISM Manufacturing PMI data
 * Develop Dashboard for Data Vizsualization
+* Automate via Apache Airflow
