@@ -14,6 +14,7 @@ Here's what I did
 3. Created s3 Bucket in AWS
 4. Wrote the python script*
 5. Create Amazon Redshift database and load data from s3 Bucket
+6. Query the data in Redshift Query Editor v2
 
 
 The Python script does the following*
