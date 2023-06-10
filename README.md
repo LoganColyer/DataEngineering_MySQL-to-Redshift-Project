@@ -14,6 +14,8 @@ Here's what I did
 4. Wrote the python script*
 5. Create Amazon Redshift database and load data from s3 Bucket
 
+---
+
 The Python script does the following*
 * Pull the data from MySQL
 * Convert to a Pandas DataFrame 
