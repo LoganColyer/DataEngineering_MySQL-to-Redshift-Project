@@ -2,7 +2,7 @@ Step 1:
 Create an s3 Bucket: https://docs.aws.amazon.com/AmazonS3/latest/userguide/creating-bucket.html
 
 Step 2:
-Create an IAM Role: [IAM](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles_create.html)
+Create an IAM Role: https://docs.aws.amazon.com/IAM/latest/UserGuide/id_users_create.html#id_users_create_console
 
 Step 3:
 Create a Redshift Cluster: https://docs.aws.amazon.com/redshift/latest/gsg/rs-gsg-launch-sample-cluster.html
