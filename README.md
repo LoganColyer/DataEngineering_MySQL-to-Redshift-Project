@@ -24,4 +24,6 @@ The Python script does the following*
 
 ---
 
-This is only phase one of the project. I plan to add more things like automation with Apache Airflow and leveraging Stock Market API's instead of manually downloading CSV files to upload onto MySQL. But this was a good first step to learning how to transfer data from one relational database to another. Especially going from On-Prem to the Cloud.
+This is only phase one of the project. 
+I plan to add more things like automation with Apache Airflow and leveraging Stock Market API's instead of manually downloading CSV files to upload onto MySQL. 
+But this was a good first step to learning how to transfer data from one relational database to another. Especially going from On-Prem to the Cloud.
